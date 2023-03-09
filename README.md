@@ -1,4 +1,5 @@
 # aim_training
-Have time to score the maximum number of points in the allotted time by clicking on the circles
+Успейте набрать максимальное количество очков за отведенное время, нажимая на кружочки.  
+В коде можете найти читы для игры)
 
-[Open project](https://mkotolevsky.github.io/aim_training/)
+[Открыть](https://mkotolevsky.github.io/aim_training/)
